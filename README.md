@@ -4,7 +4,7 @@ Project: AI Class Timetable (CSP)
 Group: IA25_P01_G4
 
 GitHub Repository:
-
+https://github.com/DiogoAbreu05/IA25_P01_G4.git
 
 How to run:
 1. Open IA25_P01_G4.ipynb in Jupyter Notebook
