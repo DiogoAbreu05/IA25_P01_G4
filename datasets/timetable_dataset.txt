@@ -7,8 +7,7 @@
 
 #cc — courses assigned to classes (class, courses*)
 t01         UC11 UC12 UC13 UC14 UC15
-t02         UC21 UC22 UC23 UC24 UC25
-t03         UC31 UC32 UC33 UC34 UC35
+
 
 #olw — courses with just one lesson per week
 
