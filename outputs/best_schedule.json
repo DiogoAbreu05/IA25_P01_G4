@@ -1,151 +1,151 @@
 {
     "UC11_1": {
-        "slot": 4,
-        "room": "Room2",
-        "teacher": "jo"
-    },
-    "UC11_2": {
         "slot": 1,
         "room": "Online",
         "teacher": "jo"
     },
-    "UC12_1": {
-        "slot": 12,
-        "room": "Online",
-        "teacher": "mike"
-    },
-    "UC12_2": {
-        "slot": 10,
-        "room": "Online",
-        "teacher": "mike"
-    },
-    "UC13_1": {
-        "slot": 16,
-        "room": "Online",
-        "teacher": "rob"
-    },
-    "UC13_2": {
-        "slot": 14,
-        "room": "Online",
-        "teacher": "rob"
-    },
-    "UC14_1": {
-        "slot": 20,
-        "room": "Lab01",
-        "teacher": "rob"
-    },
-    "UC14_2": {
-        "slot": 18,
-        "room": "Lab01",
-        "teacher": "rob"
-    },
-    "UC15_1": {
-        "slot": 8,
-        "room": "Online",
-        "teacher": "sue"
-    },
-    "UC15_2": {
-        "slot": 6,
-        "room": "Online",
-        "teacher": "sue"
-    },
-    "UC21_1": {
-        "slot": 13,
-        "room": "Room2",
-        "teacher": "jo"
-    },
-    "UC21_2": {
+    "UC11_2": {
         "slot": 3,
         "room": "Online",
         "teacher": "jo"
     },
-    "UC22_1": {
+    "UC12_1": {
         "slot": 7,
-        "room": "Lab01",
-        "teacher": "jo"
+        "room": "Online",
+        "teacher": "mike"
     },
-    "UC22_2": {
+    "UC12_2": {
         "slot": 5,
-        "room": "Lab01",
-        "teacher": "jo"
-    },
-    "UC23_1": {
-        "slot": 11,
-        "room": "Room2",
+        "room": "Online",
         "teacher": "mike"
     },
-    "UC23_2": {
-        "slot": 9,
-        "room": "Room2",
-        "teacher": "mike"
-    },
-    "UC24_1": {
-        "slot": 19,
-        "room": "Room2",
-        "teacher": "rob"
-    },
-    "UC24_2": {
-        "slot": 17,
-        "room": "Room2",
-        "teacher": "rob"
-    },
-    "UC25_1": {
-        "slot": 15,
-        "room": "Room2",
-        "teacher": "sue"
-    },
-    "UC25_2": {
-        "slot": 1,
-        "room": "Online",
-        "teacher": "sue"
-    },
-    "UC31_1": {
-        "slot": 20,
-        "room": "Online",
-        "teacher": "jo"
-    },
-    "UC31_2": {
+    "UC13_1": {
         "slot": 18,
         "room": "Online",
-        "teacher": "jo"
+        "teacher": "rob"
     },
-    "UC32_1": {
-        "slot": 8,
-        "room": "Online",
-        "teacher": "mike"
-    },
-    "UC32_2": {
-        "slot": 6,
-        "room": "Online",
-        "teacher": "mike"
-    },
-    "UC33_1": {
-        "slot": 12,
+    "UC13_2": {
+        "slot": 9,
         "room": "Online",
         "teacher": "rob"
     },
-    "UC33_2": {
-        "slot": 10,
-        "room": "Online",
+    "UC14_1": {
+        "slot": 11,
+        "room": "Lab01",
         "teacher": "rob"
     },
-    "UC34_1": {
+    "UC14_2": {
+        "slot": 20,
+        "room": "Lab01",
+        "teacher": "rob"
+    },
+    "UC15_1": {
+        "slot": 13,
+        "room": "Online",
+        "teacher": "sue"
+    },
+    "UC15_2": {
         "slot": 16,
         "room": "Online",
         "teacher": "sue"
     },
-    "UC34_2": {
+    "UC21_1": {
+        "slot": 18,
+        "room": "Online",
+        "teacher": "jo"
+    },
+    "UC21_2": {
+        "slot": 20,
+        "room": "Online",
+        "teacher": "jo"
+    },
+    "UC22_1": {
+        "slot": 9,
+        "room": "Lab01",
+        "teacher": "jo"
+    },
+    "UC22_2": {
+        "slot": 16,
+        "room": "Lab01",
+        "teacher": "jo"
+    },
+    "UC23_1": {
+        "slot": 3,
+        "room": "Online",
+        "teacher": "mike"
+    },
+    "UC23_2": {
+        "slot": 1,
+        "room": "Online",
+        "teacher": "mike"
+    },
+    "UC24_1": {
+        "slot": 5,
+        "room": "Online",
+        "teacher": "rob"
+    },
+    "UC24_2": {
+        "slot": 12,
+        "room": "Room2",
+        "teacher": "rob"
+    },
+    "UC25_1": {
+        "slot": 7,
+        "room": "Online",
+        "teacher": "sue"
+    },
+    "UC25_2": {
         "slot": 14,
+        "room": "Room1",
+        "teacher": "sue"
+    },
+    "UC31_1": {
+        "slot": 7,
+        "room": "Online",
+        "teacher": "jo"
+    },
+    "UC31_2": {
+        "slot": 13,
+        "room": "Online",
+        "teacher": "jo"
+    },
+    "UC32_1": {
+        "slot": 9,
+        "room": "Online",
+        "teacher": "mike"
+    },
+    "UC32_2": {
+        "slot": 11,
+        "room": "Online",
+        "teacher": "mike"
+    },
+    "UC33_1": {
+        "slot": 19,
+        "room": "Room2",
+        "teacher": "rob"
+    },
+    "UC33_2": {
+        "slot": 17,
+        "room": "Room2",
+        "teacher": "rob"
+    },
+    "UC34_1": {
+        "slot": 5,
+        "room": "Online",
+        "teacher": "sue"
+    },
+    "UC34_2": {
+        "slot": 3,
         "room": "Online",
         "teacher": "sue"
     },
     "UC35_1": {
-        "slot": 4,
-        "room": "Room2",
+        "slot": 1,
+        "room": "Online",
         "teacher": "sue"
     },
     "UC35_2": {
-        "slot": 2,
+        "slot": 15,
         "room": "Room2",
         "teacher": "sue"
     }
