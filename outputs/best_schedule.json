@@ -1,12 +1,77 @@
 {
-    "UC01_1": {
-        "slot": 20,
-        "room": "Lab01",
-        "teacher": "pete"
-    },
-    "UC02_1": {
-        "slot": 16,
+    "UC12_1": {
+        "slot": 12,
         "room": "Online",
-        "teacher": "mary"
+        "teacher": "mike"
+    },
+    "UC15_1": {
+        "slot": 16,
+        "room": "Room2",
+        "teacher": "sue"
+    },
+    "UC13_1": {
+        "slot": 20,
+        "room": "Room2",
+        "teacher": "rob"
+    },
+    "UC14_1": {
+        "slot": 18,
+        "room": "Lab01",
+        "teacher": "rob"
+    },
+    "UC11_1": {
+        "slot": 14,
+        "room": "Online",
+        "teacher": "jo"
+    },
+    "UC23_1": {
+        "slot": 11,
+        "room": "Room2",
+        "teacher": "mike"
+    },
+    "UC32_1": {
+        "slot": 10,
+        "room": "Online",
+        "teacher": "mike"
+    },
+    "UC24_1": {
+        "slot": 19,
+        "room": "Online",
+        "teacher": "rob"
+    },
+    "UC33_1": {
+        "slot": 17,
+        "room": "Online",
+        "teacher": "rob"
+    },
+    "UC25_1": {
+        "slot": 15,
+        "room": "Room1",
+        "teacher": "sue"
+    },
+    "UC34_1": {
+        "slot": 14,
+        "room": "Online",
+        "teacher": "sue"
+    },
+    "UC35_1": {
+        "slot": 8,
+        "room": "Online",
+        "teacher": "sue"
+    },
+    "UC31_1": {
+        "slot": 20,
+        "room": "Room2",
+        "teacher": "jo"
+    },
+    "UC21_1": {
+        "slot": 17,
+        "room": "Online",
+        "teacher": "jo"
+    },
+    "UC22_1": {
+        "slot": 13,
+        "room": "Lab01",
+        "teacher": "jo"
     }
 }
