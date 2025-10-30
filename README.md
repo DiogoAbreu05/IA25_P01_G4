@@ -5,7 +5,7 @@
 
 ### Introduction
 
-This project implements an intelligent system capable of automatically generating class timetables for undergraduate courses at the Polytechnic Institute of Cávado and Ave (IPCA).
+This project implements an intelligent system capable of automatically generating class timetables for courses, taking into account constraints related to teachers, classrooms, subjects, and student groups.
 
 Timetabling is a complex **Constraint Satisfaction Problem (CSP)** that involves multiple interdependent variables — teachers, classrooms, courses, and student groups — each with specific constraints.  
 By leveraging **Google OR-Tools CP-SAT Solver**, the system creates **optimized, conflict-free schedules** that respect all defined constraints and minimize unnecessary transitions (e.g., room changes for teachers).
