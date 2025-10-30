@@ -14,7 +14,7 @@ By leveraging **Google OR-Tools CP-SAT Solver**, the system creates **optimized,
 
 ### Project Structure
 
-...
+```
 IA25_P01_G4/
 ├── datasets/
 │ └── timetable_dataset.txt
@@ -25,7 +25,7 @@ IA25_P01_G4/
 │ └── timetable_solver.py
 ├── IA25_P01_G4.ipynb
 └── README.md
-...
+```
 
 ---
 
