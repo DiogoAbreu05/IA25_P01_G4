@@ -102,8 +102,8 @@ It applies **hard constraints** to ensure that no conflicts occur among teachers
 - Each room can only host one class per time slot.  
 - Maximum of three lessons per class per day.  
 - Online classes assigned to “Online” room.  
-4. **Solving Process** — The solver uses **backtracking search** to find valid solutions.  
-5. **Exportation** — The final valid schedule is exported to a structured JSON file.
+4. **Solving Process** — The solver uses **backtracking search** to find valid solutions. Multiple valid solutions can now be explored within a configurable time limit (e.g., 30 seconds).  
+5. **Exportation and Evaluation** — All solutions found within the time limit are collected, and a custom evaluation function selects the best timetable based on criteria such as room usage balance and lesson distribution. The selected solution is then exported to a structured JSON file.
 
 #### Example Output
 

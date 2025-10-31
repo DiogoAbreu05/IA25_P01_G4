@@ -96,7 +96,7 @@
     },
     "UC25_2": {
         "slot": 1,
-        "room": "Online",
+        "room": "Room2",
         "teacher": "sue"
     },
     "UC31_1": {
@@ -131,12 +131,12 @@
     },
     "UC34_1": {
         "slot": 16,
-        "room": "Online",
+        "room": "Room1",
         "teacher": "sue"
     },
     "UC34_2": {
         "slot": 14,
-        "room": "Online",
+        "room": "Room1",
         "teacher": "sue"
     },
     "UC35_1": {
@@ -146,7 +146,7 @@
     },
     "UC35_2": {
         "slot": 2,
-        "room": "Room2",
+        "room": "Room1",
         "teacher": "sue"
     }
 }
